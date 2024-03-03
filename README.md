@@ -1,0 +1,1 @@
+Roblox Client or such as solaris client is a python based launcher that launch roblox in a effective and lets u make modifications to the client and perform injections and modifications without getting banned
